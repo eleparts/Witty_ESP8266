@@ -1,3 +1,8 @@
+/*
+* eleparts - Witty ESP-12F 
+* SW & LDR(cds) TEST (+LED)
+*/
+
 // GPIO Pin  
 const int B_LED       = LED_BUILTIN; // GPIO 2
 const int RGB_RED     = 15;
